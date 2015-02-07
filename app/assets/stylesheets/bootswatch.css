@@ -6247,7 +6247,7 @@ html, body {
 
 body {
 	padding-top: 70px;
-	background-image: url('/images/crossword.png');
+	background-image: url('/assets/images/crossword.png');
 }
 
 @font-face {
@@ -6294,3 +6294,5 @@ body {
 	max-height: 100%;
 	max-width: 100%;
 }
+
+
