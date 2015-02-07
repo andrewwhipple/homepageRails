@@ -6247,7 +6247,7 @@ html, body {
 
 body {
 	padding-top: 70px;
-	background-image: url(image_path('crossword.png'));
+	background-image: url('/app/assets/images/crossword.png'));
 }
 
 @font-face {
